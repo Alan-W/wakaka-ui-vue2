@@ -12,8 +12,8 @@ module.exports = {
       2,
       'always',
       [
-        'feat', // 新功能
-        'fix', // 修改bug
+        'feat', // 新  功能
+        'fix', // 修改 bug
         'perf', // 性能优化
         'style', // 代码结构化修改
         'docs', // 文档和注释
