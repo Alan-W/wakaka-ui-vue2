@@ -1,6 +1,6 @@
 <template>
   <table><th>表头</th><tr>
-    <td>333</td>
+    <td>test</td>
   </tr></table>
 </template>
 
