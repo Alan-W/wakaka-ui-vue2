@@ -1,6 +1,6 @@
 import WakakaButton from './main.vue'
 
-WakakaButton.install = function(Vue) {
+WakakaButton.install = function (Vue) {
   Vue.component(WakakaButton.name, WakakaButton)
 }
 
